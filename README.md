@@ -17,7 +17,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
 
-## 📒 My Projects
+## 📒 Some projects
 - [Gem Puzzle](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/codejam) - game, using JavaScript. [Source](https://github.com/Nkp1sss/Gem-puzzle).
 - [Musical quiz](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/songbird/) - quiz, using JavaScript. [Source](https://github.com/Nkp1sss/musicalQuiz).
 - [Codepip clone](https://flourishing-tarsier-2b37b9.netlify.app/) - website for learning css, using TypeScript. The three of us made the site. [Source](https://github.com/davidpinkevich/rs-clone/tree/develop).
