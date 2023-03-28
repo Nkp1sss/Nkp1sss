@@ -20,22 +20,13 @@
 ## My Projects
 
 ## Statictics
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkp1sss&border_radius=0.5&stroke=D0D7DE)](https://git.io/streak-stats)
-![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=nkp1sss&layout=compact) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkp1sss&border_radius=0.5&stroke=D0D7DE)](https://git.io/streak-stats)  
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=nkp1sss&layout=compact)  
 [![codewars](https://www.codewars.com/users/nkp1sss/badges/large)](https://www.codewars.com/users/nkp1sss)
 
 ## Education
-<!--
-**Nkp1sss/Nkp1sss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Belarusian National Technical University (2020-2024)
+- Faculty of Information Technology and Robotics. (Specialty - Information Technology Software).
+### The Rolling Scopes School (EPAM)
+- JavaScript/Front-end 2022Q3 ([Certificate](https://app.rs.school/certificate/9va56n7l)).
+- React Course 2023Q1.
