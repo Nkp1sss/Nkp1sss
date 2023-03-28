@@ -16,9 +16,13 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" title="ESLint" alt="ESLint" width="40" height="40"/>&nbsp;
 </div>
+
 ## My Projects
 
 ## Statictics
+### github stats 
+### language stats 
+[![codewars](https://www.codewars.com/users/nkp1sss/badges/large)](https://www.codewars.com/users/nkp1sss)
 
 ## Education
 <!--
