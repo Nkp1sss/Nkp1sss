@@ -20,8 +20,8 @@
 ## My Projects
 
 ## Statictics
-### github stats 
-### language stats 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkp1sss&border_radius=0.5&stroke=D0D7DE)](https://git.io/streak-stats)
+![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=nkp1sss&layout=compact) 
 [![codewars](https://www.codewars.com/users/nkp1sss/badges/large)](https://www.codewars.com/users/nkp1sss)
 
 ## Education
