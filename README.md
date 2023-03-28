@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am a Junior Frontend Developer
+## I am a Junior Frontend Developer.
 
 ## 🎓 Languages | Tools
 <div>
@@ -18,6 +18,9 @@
 </div>
 
 ## 📒 My Projects
+- [Gem Puzzle](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/codejam) - game, using JavaScript. [Source](https://github.com/Nkp1sss/Gem-puzzle).
+- [Musical quiz](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/songbird/) - quiz, using JavaScript. [Source](https://github.com/Nkp1sss/musicalQuiz).
+- [Codepip clone](https://flourishing-tarsier-2b37b9.netlify.app/) - website for learning css, using TypeScript. The three of us made the site. [Source](https://github.com/davidpinkevich/rs-clone/tree/develop).
 
 ## 📈 Statictics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkp1sss&border_radius=0.5&stroke=D0D7DE)](https://git.io/streak-stats)  
