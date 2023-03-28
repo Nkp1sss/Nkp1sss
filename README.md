@@ -1,5 +1,13 @@
 ### Hi there 👋
+## I am a Junior Frontend Developer
 
+## Languages | Tools
+
+## My Projects
+
+## Statictics
+
+## Education
 <!--
 **Nkp1sss/Nkp1sss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
