@@ -22,6 +22,9 @@
 - [Gem Puzzle](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/codejam) - game, using JavaScript. [Source](https://github.com/Nkp1sss/Gem-puzzle).
 - [Musical quiz](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/songbird/) - quiz, using JavaScript. [Source](https://github.com/Nkp1sss/musicalQuiz).
 - [Codepip clone](https://flourishing-tarsier-2b37b9.netlify.app/) - website for learning css, using TypeScript. The three of us made the site. [Source](https://github.com/davidpinkevich/rs-clone/tree/develop).
+- [GraphQL Editor](https://merry-figolla-133137.netlify.app/) - Application for sending queries for API's, using React/TS. (GraphQL queries). [Source](https://github.com/davidpinkevich/rs-clone/tree/develop).
+- [Job Search](https://master--neon-sunburst-9bf358.netlify.app/) - Website for job search, using React/TS. (superjob API) [Source](https://github.com/Nkp1sss/job-search-app).
+
 
 ## 📈 Statictics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkp1sss&border_radius=0.5&stroke=D0D7DE)](https://git.io/streak-stats)  
