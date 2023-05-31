@@ -12,6 +12,7 @@
   <img src="https://camo.githubusercontent.com/61e102d7c605ff91efedb9d7e47c1c4a07cef59d3e1da202fd74f4772122ca4e/68747470733a2f2f766974656a732e6465762f6c6f676f2e737667" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" title="GraphQL" alt="GraphQL" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
@@ -19,11 +20,11 @@
 </div>
 
 ## 📒 Some projects
-- [Gem Puzzle](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/codejam) - game, using JavaScript. [Source](https://github.com/Nkp1sss/Gem-puzzle).
-- [Musical quiz](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/songbird/) - quiz, using JavaScript. [Source](https://github.com/Nkp1sss/musicalQuiz).
-- [Codepip clone](https://flourishing-tarsier-2b37b9.netlify.app/) - website for learning css, using TypeScript. The three of us made the site. [Source](https://github.com/davidpinkevich/rs-clone/tree/develop).
-- [GraphQL Editor](https://merry-figolla-133137.netlify.app/) - Application for sending queries for API's, using React/TS. (GraphQL queries). [Source](https://github.com/davidpinkevich/rs-clone/tree/develop).
-- [Job Search](https://master--neon-sunburst-9bf358.netlify.app/) - Website for job search, using React/TS. (superjob API) [Source](https://github.com/Nkp1sss/job-search-app).
+- [Gem Puzzle](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/codejam) (JavaScript).
+- [Musical quiz with your favorite songs](https://rolling-scopes-school.github.io/nkp1sss-JSFE2022Q3/songbird/) (JavaScript).
+- [Planets for learning css. Codepip clone.](https://flourishing-tarsier-2b37b9.netlify.app/) (TypeScript).
+- [GraphQL Editor](https://merry-figolla-133137.netlify.app/) (React/TypeScript).
+- [Job Search](https://master--neon-sunburst-9bf358.netlify.app/) (React/TypeScript).
 
 
 ## 📈 Statictics
