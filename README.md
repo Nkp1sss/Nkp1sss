@@ -25,6 +25,7 @@
 - [Planets for learning css. Codepip clone.](https://flourishing-tarsier-2b37b9.netlify.app/) (TypeScript).
 - [GraphQL Editor](https://merry-figolla-133137.netlify.app/) (React/TypeScript).
 - [Job Search](https://master--neon-sunburst-9bf358.netlify.app/) (React/TypeScript).
+- [Pexels clone](https://master--voluble-quokka-0482d4.netlify.app/) (React/TypeScript).
 
 
 ## 📈 Statictics
