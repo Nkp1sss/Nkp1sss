@@ -1,5 +1,5 @@
 ### Hi there 👋
-## I am a Junior Frontend Developer.
+## I am a Frontend Developer.
 
 ## 🎓 Languages | Tools
 <div>
