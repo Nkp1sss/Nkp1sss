@@ -38,3 +38,4 @@
 ### The Rolling Scopes School (EPAM)
 - JavaScript/Front-end 2022Q3 ([Certificate](https://app.rs.school/certificate/9va56n7l)).
 - React Course 2023Q1 ([Certificate](https://app.rs.school/certificate/39u2tbd7)).
+
