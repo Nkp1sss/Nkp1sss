@@ -26,7 +26,6 @@
 - [Job Search](https://master--neon-sunburst-9bf358.netlify.app/) (React/TypeScript).
 - [Pexels clone](https://github.com/Nkp1sss/Pexels-photostock-) (React/TypeScript).
 
-
 ## 📈 Statictics
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nkp1sss&border_radius=0.5&stroke=D0D7DE)](https://git.io/streak-stats)  
 ![LANGUAGES](https://github-readme-stats.vercel.app/api/top-langs/?username=nkp1sss&layout=compact)  
@@ -38,6 +37,8 @@
 ### The Rolling Scopes School (EPAM)
 - JavaScript/Front-end 2022Q3 ([Certificate](https://app.rs.school/certificate/9va56n7l)).
 - React Course 2023Q1 ([Certificate](https://app.rs.school/certificate/39u2tbd7)).
+
+
 
 
 
